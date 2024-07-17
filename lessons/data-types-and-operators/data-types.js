@@ -25,4 +25,4 @@ let isShort = false
 // 4. reassign above variable into the opposite
 isShort = true
 
-console.log([name,age,isMarried,names,height,isShort])
+console.log([name,age,isMarried,names,height,isShort]);

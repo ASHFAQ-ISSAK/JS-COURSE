@@ -42,4 +42,4 @@ const objectInception ={
     arrofobj : [classroom,familyMembers]
 }
 
-console.log(objectInception)
+console.log(objectInception);
